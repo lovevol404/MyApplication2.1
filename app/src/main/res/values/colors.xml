@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="toolbar_color">#2894ff</color>
+    <color name="color_rb_normal">@android:color/white</color>
+    <color name="color_rb_selected">@android:color/darker_gray</color>
+    <color name="titleColor">#FFFFFF</color>
+    <color name="text">#000000</color>
+</resources>
